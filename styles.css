@@ -1,0 +1,39 @@
+body {
+    background-color: chocolate;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+}
+
+.main {
+    display: block;
+    margin: 0 auto;
+    background-color: #fff;
+    width: 800px;
+    border-radius: 5px;
+}
+
+.main-heading {
+    text-align: center;
+}
+
+.container {
+    padding: 80px;
+    color: chocolate;
+}
+
+button {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: chocolate;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
+
+
